@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Operating System and Editor Files
+.DS_Store
+Thumbs.db
+
 # Compiled Object files
 *.slo
 *.lo
@@ -44,6 +48,19 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+
+# Content
+Content/Military/
+Content/MilitaryAirport/
+Content/MilitaryWeapDark/
+Content/ModSci_Engineer/
+Content/ModSci_EngiProps/
+Content/ModSciInteriors/
+Content/CrosshairFreePack/
+Content/Collections/
+Content/Characters/
+Content/Developers/
+Content/Fab/
 
 # Binary Files
 Binaries/*
